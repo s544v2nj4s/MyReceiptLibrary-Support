@@ -2,6 +2,7 @@
 
 Support for **My Receipt Library**, an app for scanning, organizing, and reviewing your receipts on iPhone and iPad.
 
+- [Privacy policy](https://s544v2nj4s.github.io/MyReceiptLibrary-Support/privacy.html)
 - [Report a bug or ask a question](https://github.com/s544v2nj4s/MyReceiptLibrary-Support/issues/new)
 
 ## About the app
@@ -55,7 +56,7 @@ Yes. Choose **Choose existing photo** to add a receipt from your photo library.
 
 ## Privacy
 
-My Receipt Library doesn't collect any data. It has no accounts, analytics, ads, or tracking, and all text recognition runs on your device. Purchases are handled by Apple through the App Store.
+My Receipt Library doesn't collect any data. It has no accounts, analytics, ads, or tracking, and all text recognition runs on your device. Purchases are handled by Apple through the App Store. See the [privacy policy](https://s544v2nj4s.github.io/MyReceiptLibrary-Support/privacy.html) for details.
 
 ---
 
