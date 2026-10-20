@@ -1,6 +1,6 @@
 # My Receipt Library Support
 
-Support for **My Receipt Library**, an app for scanning, organizing, and reviewing your receipts on iPhone, iPad, Mac, and Apple Vision Pro.
+Support for **My Receipt Library**, an app for scanning, organizing, and reviewing your receipts on iPhone and iPad.
 
 - [Report a bug or ask a question](https://github.com/s544v2nj4s/MyReceiptLibrary-Support/issues/new)
 
@@ -50,8 +50,8 @@ Open the Full Version screen from the **…** menu and tap **Restore Purchase**,
 **The amount or date was read incorrectly.**
 Text recognition works best with a flat, well-lit receipt that fills the frame. You can always correct any detected value before saving, or edit the receipt later.
 
-**Can I scan with the camera on Mac or in the simulator?**
-Document camera scanning is available on iPhone and iPad. On other devices, choose **Choose existing photo** instead.
+**Can I add a receipt without the camera?**
+Yes. Choose **Choose existing photo** to add a receipt from your photo library.
 
 ## Privacy
 
